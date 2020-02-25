@@ -1,2 +1,2 @@
 # JASS-Robotics-2020
-code for the JASS robots
+code and mechanical files for the JASS robots
